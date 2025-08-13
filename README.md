@@ -70,11 +70,18 @@ The business requirement is to develop a better understanding of the risk factor
 
 ## Main Data Analysis Libraries
 * Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
 
 
 ## Credits 
 - I would like to acknowledge and thank Rabie El Kharoua for making this dataset available, and kaggle for hosting it.
-- I would like to acknowledge the use of ChatGPT and Co-Pilot in debugging my code. 
+- I would like to acknowledge the use of ChatGPT and Co-Pilot in generating and debugging my code. 
+    - Co-pilot suggested to add .gitattributes file to deal with Line Feed warning by Git
+    - 
  In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 * You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
