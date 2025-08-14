@@ -52,11 +52,11 @@ After basic analysis, it was found that patients with a family history of kidney
 * I used box plots to compare grouped numeric data
 
 ## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
+* My analysis allowed me to gain a deeper understanding of the factors associated with CKD in this population. Some of my hypotheses were proved wrong, which highlights the need and usefulness of the analysis, as this will inform downstream stakeholder how and where to place resources.
 
 ## Analysis techniques used
-* List the data analysis methods used and explain limitations or alternative approaches.
-* How did you structure the data analysis techniques. Justify your response.
+* I imported my data from a csv file; looked at basic information and statistics; I made a data type change to help my basic visualisation; carried out basic visualisations of all appropriate variables; transformed the DataFrame by adding summary columns; visualised and answered hypotheses using Seaborn and Plotly.
+* I structured the data analysis techniques according to the ETL process shown. I did basic visualisation to understand what transformations I wanted to do. When ETL was complete, I moved on to answer my questions/ hypotheses.
 * I think that the lack of correlations in the data was a little limiting
 * I used ChatGPT in particular to help with plot, title and legend optimisations
 
